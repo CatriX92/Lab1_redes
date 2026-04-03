@@ -3,7 +3,7 @@
 ## Identificación del Equipo
 * **Integrante 1:** [Manuel Vega] - Rol USM: [202304644-2]
 * **Integrante 2:** [Nombre y Apellido] - Rol USM: [Ej: 202112345-6]
-* **Integrante 3:** [Nombre y Apellido] - Rol USM: [Ej: 202112345-6]
+* **Integrante 3:** [Agustin Concha] - Rol USM: [202173648-4]
 
 ---
 
